@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Alvine2545/Alvine2545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 -->
 
 
-<h1 align="center"> I'm Eunice ALLADAKAN </h1>
+<h1 align="center"> Hi there 👋 I'm Eunice ALLADAKAN </h1>
 
 <p align="center">
   <strong>Fullstack Developper</strong> Passionate about solving complex problems and creating powerful apps 🚀
